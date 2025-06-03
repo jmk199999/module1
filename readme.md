@@ -13,7 +13,7 @@ rmdir<br>
 git add<br>
 git branch<br>
 git clone<br>
-git commit<br>
+<b>git commit -m "[message]"</b> - commit your staged content as a new commit snapshot<br>
 git init<br>
 git merge<br>
 git pull<br>
