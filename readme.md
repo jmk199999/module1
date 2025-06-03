@@ -10,7 +10,7 @@ rmdir<br>
 
 #Git Command Cheat Sheet
 
-git add<br>
+<b>git add [file]</b> - add a file as it looks now to your next commit (stage)<br>
 git branch<br>
 git clone<br>
 git commit<br>
