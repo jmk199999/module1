@@ -6,7 +6,7 @@ ls<br>
 mkdir<br>
 mv<br>
 rm<br>
-rmdir<br>
+<b>rmdir</b> - remove empty directories<br>
 
 #Git Command Cheat Sheet
 
