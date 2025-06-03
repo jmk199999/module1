@@ -4,7 +4,7 @@
 <b>cp</b> - copy files or directories<br>
 <b>ls</b> - list directory contents<br>
 <b>mkdir</b> - make directories<br>
-mv<br>
+<b>mv</b> - move (rename) files<br>
 rm<br>
 rmdir<br>
 
