@@ -17,5 +17,5 @@
 <b>git init</b> - initialize an existing directory as a Git repository<br>
 <b>git merge [branch]</b> - merge the specified branch’s history into the current one<br>
 <b>git pull</b> - fetch and merge any commits from the tracking remote branch<br>
-git push<br>
+<b>git push [alias] [branch]</b> - transmit local branch commits to the remote repository branch<br>
 
