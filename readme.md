@@ -1,6 +1,6 @@
 #Linux Command Cheat Sheet
 
-cd<br>
+<b>cd</B> - change directory<br>
 cp<br>
 ls<br>
 mkdir<br>
