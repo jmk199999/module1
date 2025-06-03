@@ -5,7 +5,7 @@
 <b>ls</b> - list directory contents<br>
 <b>mkdir</b> - make directories<br>
 <b>mv</b> - move (rename) files<br>
-rm<br>
+<b>rm</b> - remove files and directories<br>
 rmdir<br>
 
 #Git Command Cheat Sheet
