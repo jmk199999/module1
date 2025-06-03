@@ -3,7 +3,7 @@
 <b>cd</b> - change directory<br>
 <b>cp</b> - copy files or directories<br>
 <b>ls</b> - list directory contents<br>
-mkdir<br>
+<b>mkdir</b> - make directories<br>
 mv<br>
 rm<br>
 rmdir<br>
