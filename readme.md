@@ -5,7 +5,7 @@ cp<br>
 ls<br>
 mkdir<br>
 mv<br>
-rm<br>
+<b>rm</b> - remove files and directories<br>
 rmdir<br>
 
 #Git Command Cheat Sheet
