@@ -1,12 +1,12 @@
 #Linux Command Cheat Sheet
 
-cd - change directory
-cp - copy files and directories
-ls - list directory contents
-mkdir - make directories
-mv - move (rename) files
-rm - remove files or directories
-rmdir remove empty directories
+cd<br>
+cp
+ls
+mkdir
+mv
+rm
+rmdir
 
 #Git Command Cheat Sheet
 
