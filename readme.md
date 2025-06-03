@@ -11,7 +11,7 @@ rmdir<br>
 #Git Command Cheat Sheet
 
 git add<br>
-git branch<br>
+<b>git branch [branch-name]</b> - create a new branch at the current commit<br>
 git clone<br>
 git commit<br>
 git init<br>
