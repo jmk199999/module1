@@ -4,7 +4,7 @@ cd<br>
 cp<br>
 ls<br>
 mkdir<br>
-mv<br>
+<b>mv</b> - move (rename) files<br>
 rm<br>
 rmdir<br>
 
