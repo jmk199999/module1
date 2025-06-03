@@ -12,7 +12,7 @@
 
 <b>git add [file]</b> - add a file as it looks now to your next commit (stage)<br>
 <b>git branch [branch-name]</b> - create a new branch at the current commit<br>
-git clone<br>
+<b>git clone [url]</b> - retrieve an entire repository from a hosted location via URL<br>
 git commit<br>
 git init<br>
 git merge<br>
