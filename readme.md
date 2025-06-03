@@ -3,7 +3,7 @@
 cd<br>
 cp<br>
 ls<br>
-mkdir<br>
+<b>mkdir</b> - make directories<br>
 mv<br>
 rm<br>
 rmdir<br>
