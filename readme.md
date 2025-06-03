@@ -2,7 +2,7 @@
 
 <b>cd</b> - change directory<br>
 <b>cp</b> - copy files or directories<br>
-ls<br>
+<b>ls</b> - list directory contents<br>
 mkdir<br>
 mv<br>
 rm<br>
