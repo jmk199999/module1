@@ -17,5 +17,5 @@ git commit<br>
 git init<br>
 git merge<br>
 git pull<br>
-git push<br>
+<b>git push [alias] [branch]</b> - transmit local branch commits to the remote repository branch<br>
 
