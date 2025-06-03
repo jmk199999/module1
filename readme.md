@@ -12,7 +12,7 @@ rmdir<br>
 
 git add<br>
 git branch<br>
-git clone<br>
+<b>git clone [url]</b> - retrieve an entire repository from a hosted location via URL<br>
 git commit<br>
 git init<br>
 git merge<br>
