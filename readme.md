@@ -14,7 +14,7 @@ git add<br>
 git branch<br>
 git clone<br>
 git commit<br>
-git init<br>
+<b>git init</b> - initialize an existing directory as a Git repository<br>
 git merge<br>
 git pull<br>
 git push<br>
