@@ -1,7 +1,7 @@
 #Linux Command Cheat Sheet
 
-<b>cd</B> - change directory<br>
-cp<br>
+cd<br>
+<b>cp</b> - copy files or directories<br>
 ls<br>
 mkdir<br>
 mv<br>
