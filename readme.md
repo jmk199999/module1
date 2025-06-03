@@ -6,7 +6,7 @@
 <b>mkdir</b> - make directories<br>
 <b>mv</b> - move (rename) files<br>
 <b>rm</b> - remove files and directories<br>
-rmdir<br>
+<b>rmdir</b> - remove empty directories<br>
 
 #Git Command Cheat Sheet
 
