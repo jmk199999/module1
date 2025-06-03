@@ -15,7 +15,7 @@
 <b>git clone [url]</b> - retrieve an entire repository from a hosted location via URL<br>
 <b>git commit -m "[message]"</b> - commit your staged content as a new commit snapshot<br>
 <b>git init</b> - initialize an existing directory as a Git repository<br>
-git merge<br>
+<b>git merge [branch]</b> - merge the specified branch’s history into the current one<br>
 git pull<br>
 git push<br>
 
