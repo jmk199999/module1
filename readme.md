@@ -14,7 +14,7 @@
 <b>git branch [branch-name]</b> - create a new branch at the current commit<br>
 <b>git clone [url]</b> - retrieve an entire repository from a hosted location via URL<br>
 <b>git commit -m "[message]"</b> - commit your staged content as a new commit snapshot<br>
-git init<br>
+<b>git init</b> - initialize an existing directory as a Git repository<br>
 git merge<br>
 git pull<br>
 git push<br>
