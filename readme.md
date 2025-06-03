@@ -1,21 +1,21 @@
 #Linux Command Cheat Sheet
 
 cd<br>
-cp
-ls
-mkdir
-mv
-rm
-rmdir
+cp<br>
+ls<br>
+mkdir<br>
+mv<br>
+rm<br>
+rmdir<br>
 
 #Git Command Cheat Sheet
 
-git add
-git branch
-git clone
-git commit
-git init
-git merge
-git pull
-git push
+git add<br>
+git branch<br>
+git clone<br>
+git commit<br>
+git init<br>
+git merge<br>
+git pull<br>
+git push<br>
 
