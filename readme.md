@@ -16,6 +16,6 @@ git clone<br>
 git commit<br>
 git init<br>
 git merge<br>
-git pull<br>
+<b>git pull</b> - fetch and merge any commits from the tracking remote branch<br>
 git push<br>
 
